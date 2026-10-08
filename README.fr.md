@@ -34,7 +34,7 @@ Le CLI n’envoie pas de devoir, ne répond pas aux questionnaires et n’envoie
 Python 3.11 ou plus récent.
 
 ```bash
-git clone https://github.com/miku233333/manaba-cli.git
+git clone https://github.com/miku2339/manaba-cli.git
 cd manaba-cli
 python3 -m venv .venv
 source .venv/bin/activate
